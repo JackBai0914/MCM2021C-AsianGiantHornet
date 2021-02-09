@@ -1,0 +1,23 @@
+r size: 4256
+data at t = 0: tot = 1000.00000, non-emp = 1, mx = 1000.00000, dg = 36.00000, top10av = 100.00000
+data at t = 183: tot = 396.28114, non-emp = 821, mx = 10.12028, dg = 37.58968, top10av = 9.02119
+data at t = 365: tot = 1729.39802, non-emp = 2006, mx = 61.99616, dg = 40.49228, top10av = 40.28218
+data at t = 548: tot = 341.45154, non-emp = 2218, mx = 10.13761, dg = 38.95405, top10av = 6.14491
+data at t = 730: tot = 1953.26411, non-emp = 2705, mx = 140.31375, dg = 40.12041, top10av = 77.48860
+data at t = 913: tot = 341.96936, non-emp = 2727, mx = 14.57617, dg = 37.28434, top10av = 8.33644
+data at t = 1095: tot = 2202.53797, non-emp = 2754, mx = 139.49930, dg = 38.63924, top10av = 78.87782
+data at t = 1278: tot = 434.39538, non-emp = 2754, mx = 14.61619, dg = 35.14743, top10av = 8.53574
+data at t = 1460: tot = 3009.33001, non-emp = 2754, mx = 157.14003, dg = 36.99567, top10av = 89.96228
+data at t = 1643: tot = 659.64889, non-emp = 2754, mx = 17.11973, dg = 33.14058, top10av = 10.12078
+data at t = 1825: tot = 4678.21079, non-emp = 2754, mx = 204.18306, dg = 35.27494, top10av = 117.68843
+data at t = 2008: tot = 1104.00266, non-emp = 2754, mx = 22.72031, dg = 31.13301, top10av = 13.54427
+data at t = 2190: tot = 7829.00037, non-emp = 2754, mx = 287.88341, dg = 33.40188, top10av = 165.82154
+data at t = 2373: tot = 1961.05354, non-emp = 2754, mx = 32.27224, dg = 29.08124, top10av = 19.31972
+data at t = 2555: tot = 13790.97769, non-emp = 2754, mx = 423.83800, dg = 31.41357, top10av = 243.93663
+data at t = 2738: tot = 3641.44454, non-emp = 2754, mx = 47.93772, dg = 27.07124, top10av = 28.67377
+data at t = 2920: tot = 25334.28723, non-emp = 2754, mx = 645.74024, dg = 29.41931, top10av = 371.35246
+data at t = 3103: tot = 7009.89205, non-emp = 2754, mx = 73.64929, dg = 25.21156, top10av = 44.07498
+data at t = 3285: tot = 48245.68958, non-emp = 2754, mx = 1017.64429, dg = 27.53656, top10av = 584.79951
+data at t = 3468: tot = 13898.81571, non-emp = 2754, mx = 117.08956, dg = 23.57905, top10av = 72.09446
+data at t = 3650: tot = 94726.22014, non-emp = 2754, mx = 1662.44506, dg = 25.85348, top10av = 960.04970
+36 18
